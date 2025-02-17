@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:#1D2951 ;
+}
+
+.card-body{
+   background-color:#003152;
+   color: aliceblue;
+   
+}
+
+.card-container{
+    border: #003152;
+}
+navbar-bg-body-tertiary{
+    background-color:#1D2951
+}
+
+.navbar-brand{
+    display: flex;
+    justify-content: center;
+}
+.btn-btn-success{
+    display: flex;
+    justify-content: center;
+}
+
+.carouselExample{
+    visibility:visible ;
+}
